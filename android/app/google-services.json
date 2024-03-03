@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "880792481198",
+    "project_id": "fir-aef10",
+    "storage_bucket": "fir-aef10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880792481198:android:6e285b99979ec043302c3f",
+        "android_client_info": {
+          "package_name": "com.mernapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLFkOipq-Wmr64c-QQ0-fH6xbsiZKkmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880792481198:android:16c9f4739bd61333302c3f",
+        "android_client_info": {
+          "package_name": "com.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLFkOipq-Wmr64c-QQ0-fH6xbsiZKkmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
